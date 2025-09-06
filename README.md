@@ -1,52 +1,54 @@
 # Python-Advance-Tool-Ethical-Hacking
 
-This repository contains advanced Python-based tools focused on **ethical hacking and cybersecurity research**.  
-It is designed for **learning, penetration testing (in authorized environments only), and improving security awareness**.  
+This repository contains advanced Python-based tools focused on ethical hacking and cybersecurity research.
+It is designed for learning, penetration testing (in authorized environments only), and improving security awareness.
 
-⚠️ **Disclaimer**:  
-This project is created **strictly for educational purposes and ethical hacking only**.  
-Do **not** use it on networks, systems, or applications without proper authorization.  
-The author is **not responsible** for any misuse of this tool.
-
----
+### ⚠️ Disclaimer:
+This project is created strictly for educational purposes and ethical hacking only.
+Do not use it on networks, systems, or applications without proper authorization.
+The author is not responsible for any misuse of this tool.
 
 ## 📂 Repository Contents
-- `htt_network.py` → Main Python script for network-related ethical hacking operations.  
-- `requirements.txt` → Python dependencies required to run the tool.  
+
+htt_network.py → Main Python script for network-related ethical hacking operations.
+requirements.txt → Python dependencies required to run the tool.
 
 ---
+# 🔧 Installation & Setup
 
-## 🔧 Installation & Setup
 
-### 1️⃣ Clone the repository
+## 1️⃣ Clone the repository
+
 ```bash
 git clone https://github.com/HowTooTech/Python-Advance-Tool-Ethical-Hacking.git
 cd Python-Advance-Tool-Ethical-Hacking
+```
 
-###2️⃣ Install requirements
-
+## 2️⃣ Install requirements
 Make sure you have Python 3.x installed. Then install dependencies:
-
+```bash
 pip install -r requirements.txt
+```
 
-##🚀 Usage
-
+# 🚀 Usage
 After installing the requirements, you can run the tool:
-
-###On Windows
+## On Windows
+```bash
 python htt_network.py
+```
 
-###On Linux / macOS
+## On Linux / macOS
+```bash
 python3 htt_network.py
+```
 
-##📌 Notes
-
+# 📌 Notes
 Run the script with proper permissions (Admin/Root if required).
 
 Works best on Python 3.8+.
 
 Keep your requirements.txt updated when adding new dependencies.
 
+## License
 
-##🤝 Contribution
-
+[HTT](https://howtootech.com/contact)
